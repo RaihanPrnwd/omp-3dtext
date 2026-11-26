@@ -1,0 +1,16 @@
+# Ignore compiler output and build artifacts
+*.amx
+test.amx
+
+# Ignore sampctl and dependency directories
+dependencies/
+components/
+plugins/
+scriptfiles/
+
+# Temporary and editor files
+*.log
+*.bak
+*.tmp
+.vscode/
+.idea/
